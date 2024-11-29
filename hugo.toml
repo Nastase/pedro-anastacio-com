@@ -8,6 +8,7 @@ metaKeywords = [
   "blog",
   "solutions architect",
   "pedro anastacio",
+  "leadership",
 ]
 
 enableRobotsTXT = true
@@ -25,7 +26,7 @@ avatarURL = "/images/pedro.jpg"
 
 description = "Software Engineering, Productivity and probably a bit more."
 
-#showPostsOnHomePage = "recent"
+showPostsOnHomePage = "recent"
 numberPostsOnHomePage = 4
 
 togglePreviousAndNextButtons = "true"
@@ -67,17 +68,17 @@ pre = "<span data-feather='briefcase'></span>"
 url = "/work/resume"
 weight = 2
 
-#[[menu.main]]
-#name = "Posts"
-#pre = "<span data-feather='book'></span>"
-#url = "/posts/"
-#weight = 3
+[[menu.main]]
+name = "Posts"
+pre = "<span data-feather='book'></span>"
+url = "/posts/"
+weight = 3
 
-#[[menu.main]]
-#name = "Tags"
-#pre = "<span data-feather='tag'></span>"
-#url = "/tags/"
-#weight = 4
+[[menu.main]]
+name = "Tags"
+pre = "<span data-feather='tag'></span>"
+url = "/tags/"
+weight = 4
 
 [[menu.main]]
 identifier = "github"
