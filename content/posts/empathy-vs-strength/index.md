@@ -11,7 +11,7 @@ type: "post"
 
 ![Empathic Leader](/posts/empathy-vs-strength/images/empathic-leader.jpg)
 
-In today’s fast-paced and ever-changing world, leadership demands more than authority and technical prowess. Empathy, once dismissed as a mere soft skill, is now redefining what it means to lead effectively in modern organizations. As we navigate complex human dynamics, empathy is no longer optional; it’s essential.
+Once seen as the foundation of good leadership, authority and technical skills are gradually being perceived as the tools of "old school leaders". Technical expertise in an area of expertise is still imensly valuable, but on the other hand, authority is being replaced by empathy. Often dismissed as a mere soft skill, empahty is now redefining what it means to lead effectively in modern organizations. And it’s becoming essential.
 
 Unlike skills that we learn and can apply mechanically, soft skills are usually connected to our emotional intelligence. There are numerous variables associated to soft skills, and one of those variables is what we perceive as our ability to be empathic.
 
