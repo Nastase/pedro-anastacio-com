@@ -1,6 +1,6 @@
 ---
 date: 2025-01-17
-description: "In 2024, I read a life record of 26 books. Not every one of them was good enough to remember, which is why I want to share with you two of the twenty'six that really resonated with meÇ one fiction and one non'fiction. Keep reading, and I'll tell you everything!"
+description: "In 2024, I read a life record of 26 books. Not every one of them was good enough to remember, which is why I want to share with you two of the twenty'six that really resonated with me one fiction and one non-fiction. Keep reading, and I'll tell you everything!"
 image: "/posts/2024-books/images/book_glasses.jpg"
 lastmod: 2025-01-17
 showTableOfContents: false
