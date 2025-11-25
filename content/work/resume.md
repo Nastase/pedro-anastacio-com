@@ -13,7 +13,12 @@ As the founder of Nastech, I leverage my extensive expertise to design and imple
 
 ## Projects
 
-### Carlsberg Group with Boost IT (January 2019 - Present)
+### Emagine Portugal (January 2025 - Present)
+As a Subject Matter Expert at Emagine Portugal, I support multiple strategic engagements across diverse technology ecosystems, including SAP Commerce Cloud, Java-based microservices with Quarkus, Microsoft Dynamics 365, and large-scale Node.js architectures. Working closely with mixed-seniority development teams, I am responsible for establishing efficient onboarding processes, defining workflows and engineering best practices, and ensuring consistently high code quality across projects. My role extends to providing technical guidance, mentoring developers, and shaping development standards that enhance productivity, quality, and long-term maintainability.
+
+Beyond delivery, I contribute directly to Emagine’s business growth by supporting recruitment and pre-sales initiatives. I conduct technical interviews to help build high-performing teams and participate in early-stage client engagements, including requirements-gathering sessions, capability presentations, and the design of tailored technical solutions. Through this blend of leadership, technical depth, and client-facing involvement, I play a key role in driving successful project outcomes and strengthening Emagine Portugal’s positioning as a trusted technology partner.
+
+### Carlsberg Group with Boost IT (January 2019 - December 2024)
 Started as Tech Lead in a sales forces internal tool, leading a team of 4 people who grew to 18. Developed from scratch, the tool is platform and device-agnostic, allowing Carlsberg’s sales representatives to have access to customer data in the field.
 
 Moved then to a Principal Engineer role, within a team of 5.
