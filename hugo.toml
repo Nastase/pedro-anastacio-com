@@ -22,7 +22,7 @@ pygmentsStyle = "catppuccin-macchiato"
 
 # Global Configuration
 [params]
-avatarURL = "/images/pedro.jpg"
+avatarURL = "/images/pedro.png"
 
 description = "Software Engineering, Productivity and probably a bit more."
 
