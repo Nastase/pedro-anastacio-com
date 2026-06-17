@@ -73,4 +73,4 @@ Of course, not every team gets the architecture right from the start. Most do no
 
 But when those decisions are left implicit, the system still decides. It just does so silently, on behalf of whoever touches it next. That is where deferred architecture decisions start compounding.
 
-In Part 2 of this article, we'll look at what deferred architecture decisions cost and why the consequences always arrive sooner than expected.
+In [Part 2]({{< ref "posts/architecture-guides-next-decisions-part-2/index.md" >}}) of this article, we'll look at what deferred architecture decisions cost and why the consequences always arrive sooner than expected.
